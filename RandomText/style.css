@@ -1,0 +1,56 @@
+/* STYLE */
+body{
+    background-color: orange !important;
+}
+a{
+    font-size: 35px;
+    text-decoration: none;
+    color: orange;
+    margin-left: 3px;  
+}
+i{
+    color: orange;
+}
+p{
+    font-size: 20px;
+    color: orange;
+    margin-bottom: 100px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+}
+.yazi{
+    background-color:white;
+    height: auto;
+    border: 2px solid white;
+    border-radius: 15px 0 15px 0;
+    padding: 50px;   
+}
+.my-div{
+    position: absolute;
+    bottom: 0;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.my-row{
+    margin-top:100px;
+    margin-bottom: 40px;
+}
+h1{
+    text-align: center;
+    color: white !important;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.my-text{
+    margin-left:30px;
+    margin-bottom: 30px;
+}
+ .my-button{
+    position: absolute;
+    right: 50px;
+    bottom: 10px;
+    background-color: orange;
+    color: white;
+    font-size: 18px !important;
+ }
+
